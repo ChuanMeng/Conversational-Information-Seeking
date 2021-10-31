@@ -43,6 +43,10 @@ information retrieval (IR)
   - Mohammad Aliannejadi, Julia Kiseleva, Aleksandr Chuklin, Jeff Dalton, and Mikhail Burtsev.
   - ***Conversational AI challenge series (ConvAI3), 2020***. 
   - Organize a shared task which pose questions on when to ask clarifying questions and how to generate them, concluding all the aforementioned works.
+- [Analyzing and Learning from User Interactions with Search Clarifcation](https://dl.acm.org/doi/abs/10.1145/3397271.3401160). 
+  - Hamed Zamani, Bhaskar Mitra, Everest Chen, Gord Lueck, Fernando Diaz, Paul N. Bennett, Nick Craswell, and Susan T. Dumais.
+  - ***Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020***. 
+  - Generat and select clarifying questions.
 - [Guided Transformer: Leveraging Multiple External Sources for Representation Learning in Conversational Search](https://dl.acm.org/doi/abs/10.1145/3397271.3401061). 
   - Helia Hashemi, Hamed Zamani, and W Bruce Croft.
   - ***Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020***. 
@@ -71,6 +75,10 @@ information retrieval (IR)
   - Ryen W. White and Resa A. Roth.
   - ***Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL, long paper), 2018***. 
   - Collect a clarifying question dataset from the posts in StackOverﬂow and propose to select clarification questions based on the expected value of perfect information considering the usefulness of potential answers to a candidate question.
+- [Situational Context for Ranking in Personal Search](https://dl.acm.org/doi/abs/10.1145/3038912.3052648). 
+  - Hamed Zamani, Michael Bendersky, Xuanhui Wang, and Mingyang Zhang.
+  - ***Proceedings of the 26th International Conference on World Wide Web (WWW), 2017***. 
+  - ask for clarification.
 - [What do you mean exactly? Analyzing clarification questions in CQA](https://ieeexplore.ieee.org/abstract/document/6812556). 
   - Pavel Braslavski, Denis Savenkov, Eugene Agichtein, and Alina Dubatovka
   - ***Proceedings of the 2017 Conference on Conference Human Information Interaction and Retrieval, 2017***. 
