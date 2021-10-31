@@ -34,7 +34,7 @@ information retrieval (IR)
 - [Answer-based Adversarial Training for Generating Clarification Questions](https://aclanthology.org/N19-1013/). 
   - Sudha Rao and Hal Daumé III
   - ***Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL, short paper), 2019***. 
-  - Propose a task of generating common questions from multiple documents for ambiguous user queries.
+  - Propose a model for generating a clarifying question for identifying missing information in a closed-domain setting. They propose a reinforcement learning model that maximizes a utility function based on the added value obtained by the potential response to the clarifying question.
 - [Learning to ask good questions: Ranking clarification questions using neural expected value of perfect information](https://aclanthology.org/P18-1255/). 
   - Ryen W. White and Resa A. Roth
   - ***Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL, long paper), 2018***. 
