@@ -8,6 +8,13 @@ information retrieval (IR)
   - ***Publisher and publish time***. 
   - Comments.
 
+
+### Preference elicitation
+- [Coached Conversational Preference Elicitation: A Case Study in Understanding Movie Preferences](). 
+  - Filip Radlinski, Krisztian Balog, Bill Byrne, and Karthik Krishnamoorthi.
+  - ***Proceedings of the 20th Annual SIGdial Meeting on Discourse and Dialogue, 2019***. 
+  - The paper focuses on the movie recommendation scenario, and is focused specifcally on the preference elicitation phase, in which the assistant is instructed to learn more about the user tastes rather than make a recommendation.
+
 ### Very ealy papers for CIS
 - [Cases, scripts, and information-seeking strategies: On the design of interactive information retrieval systems](https://www.sciencedirect.com/science/article/pii/095741749500011W). 
   - Nicholas J Belkin, Colleen Cool, Adelheit Stein, and Ulrich Thiel.
