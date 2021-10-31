@@ -36,10 +36,10 @@ information retrieval (IR)
   - Mohammad Aliannejadi, Julia Kiseleva, Aleksandr Chuklin, Jeff Dalton, and Mikhail Burtsev
   - ***Conversational AI challenge series (ConvAI3), 2020***. 
   - Organize a shared task which pose questions on when to ask clarifying questions and how to generate them, concluding all the aforementioned works.
-- [ConvAI3: Generating Clarifying Questions for OpenDomain Dialogue Systems (ClariQ)](http://convai.io/ConvAI3_ClariQ2020.pdf). 
-  - Mohammad Aliannejadi, Julia Kiseleva, Aleksandr Chuklin, Jeff Dalton, and Mikhail Burtsev
+- [Asking Clarifying Questions in Open-Domain Information-Seeking Conversations](https://dl.acm.org/doi/abs/10.1145/3331184.3331265). 
+  - Mohammad Aliannejadi, Hamed Zamani, Fabio Crestani, and W. Bruce Croft.
   - ***Conversational AI challenge series (ConvAI3), 2020***. 
-  - Organize a shared task which pose questions on when to ask clarifying questions and how to generate them, concluding all the aforementioned works.
+  - N/A
 - [Identifying unclear questions in community question answering websites](https://link.springer.com/chapter/10.1007/978-3-030-15712-8_18). 
   - Jan Trienes and Krisztian Balog
   - ***European Conference on Information Retrieval (ECIR), 2019***. 
