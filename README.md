@@ -27,12 +27,18 @@ information retrieval (IR)
 
 
 ### Asking Clarifying Question
+- [ConvAI3: Generating Clarifying Questions for OpenDomain Dialogue Systems (ClariQ)](http://convai.io/ConvAI3_ClariQ2020.pdf). 
+  - Mohammad Aliannejadi, Julia Kiseleva, Aleksandr Chuklin, Jeff Dalton, and Mikhail Burtsev
+  - ***Conversational AI challenge series (ConvAI3), 2020***. 
+  - Organize a shared task which pose questions on when to ask clarifying questions and how to generate them, concluding all the aforementioned works.
+- [Identifying unclear questions in community question answering websites](https://link.springer.com/chapter/10.1007/978-3-030-15712-8_18). 
+  - Jan Trienes and Krisztian Balog
+  - ***European Conference on Information Retrieval (ECIR), 2019***. 
+  - Focuse on identifying unclear CQA posts that require further clarification.
 - [Asking Clarification Questions in Knowledge Based Question Answering](https://aclanthology.org/N19-1013/). 
   - Jingjing Xu, Yuechen Wang, Duyu Tang, Nan Duan, Pengcheng Yang, Qi Zeng, Ming Zhou, and Xu Sun
   - ***Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), 2019***. 
   - Create a clarification identification and generation dataset where they solve clarification identification as a binary classification problem. They employs a binary classifier to predict whether to answer the query or ask clarifying question given current context. Then, according to the classification result, use answer or question reranker to rank and select the top response.
-
-  
 - [Answer-based Adversarial Training for Generating Clarification Questions](https://aclanthology.org/N19-1013/). 
   - Sudha Rao and Hal Daumé III
   - ***Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL, short paper), 2019***. 
