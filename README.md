@@ -27,14 +27,20 @@ information retrieval (IR)
 
 
 ### Asking Clarifying Question
-- [Generating a Common Question from Multiple Documents using Multi-source Encoder-Decoder Models](https://aclanthology.org/P18-1255/). 
-  - Woon Sang Cho, Yizhe Zhang, Sudha Rao, Chris Brockett, and Sungjin Lee
-  - ***Proceedings of the 3rd Workshop on Neural Generation and Translation, 2019***. 
-  - Propose a task of generating common questions from multiple documents for ambiguous user queries.
+- [Asking Clarification Questions in Knowledge Based Question Answering](https://aclanthology.org/N19-1013/). 
+  - Jingjing Xu, Yuechen Wang, Duyu Tang, Nan Duan, Pengcheng Yang, Qi Zeng, Ming Zhou, and Xu Sun
+  - ***Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), 2019***. 
+  - Create a clarification identification and generation dataset where they solve clarification identification as a binary classification problem. They employs a binary classifier to predict whether to answer the query or ask clarifying question given current context. Then, according to the classification result, use answer or question reranker to rank and select the top response.
+
+  
 - [Answer-based Adversarial Training for Generating Clarification Questions](https://aclanthology.org/N19-1013/). 
   - Sudha Rao and Hal Daumé III
   - ***Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL, short paper), 2019***. 
   - Propose a model for generating a clarifying question for identifying missing information in a closed-domain setting. They propose a reinforcement learning model that maximizes a utility function based on the added value obtained by the potential response to the clarifying question.
+- [Generating a Common Question from Multiple Documents using Multi-source Encoder-Decoder Models](https://aclanthology.org/P18-1255/). 
+  - Woon Sang Cho, Yizhe Zhang, Sudha Rao, Chris Brockett, and Sungjin Lee
+  - ***Proceedings of the 3rd Workshop on Neural Generation and Translation, 2019***. 
+  - Propose a task of generating common questions from multiple documents for ambiguous user queries.
 - [Learning to ask good questions: Ranking clarification questions using neural expected value of perfect information](https://aclanthology.org/P18-1255/). 
   - Ryen W. White and Resa A. Roth
   - ***Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL, long paper), 2018***. 
