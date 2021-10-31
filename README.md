@@ -17,6 +17,17 @@ information retrieval (IR)
   - ***Expert systems with applications, 1995***. 
   - Propose an interactive IR system using script-based information-seeking dialogues.
 
+
+### User study
+- [Exploring conversational search with humans, assistants, and wizards](https://www.sciencedirect.com/science/article/pii/095741749500011W). 
+  - Alexandra Vtyurina, Denis Savenkov, Eugene Agichtein, and Charles LA Clarke
+  - ***Expert systems with applications, 1995***. 
+  - Study how users behave when interacting with a human expert, a commercial intelligent assistant, and a human disguised as an automatic system. Concretely, authors ask 21 participants to solve 3 information seeking tasks by conversing with three agents: an existing commercial system, a human expert, and a perceived experimental automatic system, backed by a human “wizard behind the curtain.” They conclude that people do not have biases against CIS systems, as long as their performance is acceptable.
+
+
+
+
+
 ### Asking Clarifying Question
 - [Initiative-Aware Self-Supervised learning for Knowledge-Grounded Conversations](https://dl.acm.org/doi/10.1145/3404835.3462824). 
   - Chuan Meng, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Tengxiao Xi, and Maarten de Rijke. 
