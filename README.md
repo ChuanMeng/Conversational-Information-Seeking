@@ -38,7 +38,7 @@ information retrieval (IR)
   - Organize a shared task which pose questions on when to ask clarifying questions and how to generate them, concluding all the aforementioned works.
 - [Asking Clarifying Questions in Open-Domain Information-Seeking Conversations](https://dl.acm.org/doi/abs/10.1145/3331184.3331265). 
   - Mohammad Aliannejadi, Hamed Zamani, Fabio Crestani, and W. Bruce Croft.
-  - ***Conversational AI challenge series (ConvAI3), 2020***. 
+  - ***Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieva (SIGIR), 2019***. 
   - N/A
 - [Identifying unclear questions in community question answering websites](https://link.springer.com/chapter/10.1007/978-3-030-15712-8_18). 
   - Jan Trienes and Krisztian Balog
