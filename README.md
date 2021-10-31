@@ -3,6 +3,13 @@ A Conversational Information Seeking (CIS) Paper Reading List Maintained by Chua
 information retrieval (IR)
 
 
+@article{yang2017neural,
+  title={Neural matching models for question retrieval and next question prediction in conversation},
+  author={Yang, Liu and Zamani, Hamed and Zhang, Yongfeng and Guo, Jiafeng and Croft, W Bruce},
+  journal={arXiv preprint arXiv:1707.05409},
+  year={2017}
+}
+
 - [Titile and the link for pdf](). 
   - Authors.
   - ***Publisher and publish time***. 
