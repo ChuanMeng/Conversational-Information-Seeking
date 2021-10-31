@@ -31,10 +31,18 @@ information retrieval (IR)
   - Woon Sang Cho, Yizhe Zhang, Sudha Rao, Chris Brockett, and Sungjin Lee
   - ***Proceedings of the 3rd Workshop on Neural Generation and Translation, 2019***. 
   - Propose a task of generating common questions from multiple documents for ambiguous user queries.
+- [Answer-based Adversarial Training for Generating Clarification Questions](https://aclanthology.org/N19-1013/). 
+  - Sudha Rao and Hal Daumé III
+  - ***Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL, short paper), 2019***. 
+  - Propose a task of generating common questions from multiple documents for ambiguous user queries.
 - [Learning to ask good questions: Ranking clarification questions using neural expected value of perfect information](https://aclanthology.org/P18-1255/). 
   - Ryen W. White and Resa A. Roth
   - ***Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL, long paper), 2018***. 
   - Collect a clarifying question dataset from the posts in StackOverﬂow and propose to select clarification questions based on the expected value of perfect information considering the usefulness of potential answers to a candidate question.
+- [What do you mean exactly? Analyzing clarification questions in CQA](https://ieeexplore.ieee.org/abstract/document/6812556). 
+  - Pavel Braslavski, Denis Savenkov, Eugene Agichtein, and Alina Dubatovka
+  - ***Proceedings of the 2017 Conference on Conference Human Information Interaction and Retrieval, 2017***. 
+  - N/A
 - [Exploratory Search: Beyond the Query-Response Paradigm](https://ieeexplore.ieee.org/abstract/document/6812556). 
   - Ryen W. White and Resa A. Roth
   - ***Synthesis Lectures on Information Concepts, Retrieval, and Services, 2009***. 
