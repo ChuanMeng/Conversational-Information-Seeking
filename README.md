@@ -27,14 +27,19 @@ information retrieval (IR)
 
 
 ### Asking Clarifying Question
+- [Generating a Common Question from Multiple Documents using Multi-source Encoder-Decoder Models](https://aclanthology.org/P18-1255/). 
+  - Woon Sang Cho, Yizhe Zhang, Sudha Rao, Chris Brockett, and Sungjin Lee
+  - ***Proceedings of the 3rd Workshop on Neural Generation and Translation, 2019***. 
+  - Propose a task of generating common questions from multiple documents for ambiguous user queries.
+- [Learning to ask good questions: Ranking clarification questions using neural expected value of perfect information](https://aclanthology.org/P18-1255/). 
+  - Ryen W. White and Resa A. Roth
+  - ***Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL, long paper), 2018***. 
+  - Collect a clarifying question dataset from the posts in StackOverﬂow and propose to select clarification questions based on the expected value of perfect information considering the usefulness of potential answers to a candidate question.
 - [Exploratory Search: Beyond the Query-Response Paradigm](https://ieeexplore.ieee.org/abstract/document/6812556). 
   - Ryen W. White and Resa A. Roth
   - ***Synthesis Lectures on Information Concepts, Retrieval, and Services, 2009***. 
   - Their goal is not always to find the relevant passages for the user questions but also non-relevant passages that contain related topics in order to do clarification or recommendation sometimes 
-- [Learning to ask good questions: Ranking clarification questions using neural expected value of perfect information](https://aclanthology.org/P18-1255/). 
-  - Ryen W. White and Resa A. Roth
-  - ***Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL, long paper), 2018***. 
-  - Collect a clarifying question dataset from the posts in StackOverﬂow and proposed to select clarification questions based on the expected value of perfect information considering the usefulness of potential answers to a candidate question.
+
 
 ### Indri python interface
 - [Pyndri: A Python Interface to the Indri Search Engine](https://link.springer.com/chapter/10.1007/978-3-319-56608-5_74). 
