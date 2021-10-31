@@ -3,6 +3,11 @@ A Conversational Information Seeking (CIS) Paper Reading List Maintained by Chua
 information retrieval (IR)
 
 
+- [Titile and the link for pdf](). 
+  - Authors.
+  - ***Publisher and publish time***. 
+  - Comments.
+
 ### Very ealy papers for CIS
 - [Cases, scripts, and information-seeking strategies: On the design of interactive information retrieval systems](https://www.sciencedirect.com/science/article/pii/095741749500011W). 
   - Nicholas J Belkin, Colleen Cool, Adelheit Stein, and Ulrich Thiel
@@ -27,6 +32,10 @@ information retrieval (IR)
 
 
 ### Asking Clarifying Question
+- [ConvAI3: Generating Clarifying Questions for OpenDomain Dialogue Systems (ClariQ)](http://convai.io/ConvAI3_ClariQ2020.pdf). 
+  - Mohammad Aliannejadi, Julia Kiseleva, Aleksandr Chuklin, Jeff Dalton, and Mikhail Burtsev
+  - ***Conversational AI challenge series (ConvAI3), 2020***. 
+  - Organize a shared task which pose questions on when to ask clarifying questions and how to generate them, concluding all the aforementioned works.
 - [ConvAI3: Generating Clarifying Questions for OpenDomain Dialogue Systems (ClariQ)](http://convai.io/ConvAI3_ClariQ2020.pdf). 
   - Mohammad Aliannejadi, Julia Kiseleva, Aleksandr Chuklin, Jeff Dalton, and Mikhail Burtsev
   - ***Conversational AI challenge series (ConvAI3), 2020***. 
