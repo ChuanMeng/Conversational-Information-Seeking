@@ -19,12 +19,10 @@ information retrieval (IR)
 
 
 ### User study
-- [Exploring conversational search with humans, assistants, and wizards](https://www.sciencedirect.com/science/article/pii/095741749500011W). 
+- [Exploring conversational search with humans, assistants, and wizards](https://dl.acm.org/doi/abs/10.1145/3027063.3053175). 
   - Alexandra Vtyurina, Denis Savenkov, Eugene Agichtein, and Charles LA Clarke
   - ***Expert systems with applications, 1995***. 
   - Study how users behave when interacting with a human expert, a commercial intelligent assistant, and a human disguised as an automatic system. Concretely, authors ask 21 participants to solve 3 information seeking tasks by conversing with three agents: an existing commercial system, a human expert, and a perceived experimental automatic system, backed by a human “wizard behind the curtain.” They conclude that people do not have biases against CIS systems, as long as their performance is acceptable.
-
-
 
 
 
@@ -34,3 +32,13 @@ information retrieval (IR)
   - ***SIGIR 2021***. 
   - comments:
 - 111
+
+### Indri python interface
+- [Pyndri: A Python Interface to the Indri Search Engine](https://link.springer.com/chapter/10.1007/978-3-319-56608-5_74). 
+  - Christophe Van Gysel, Evangelos Kanoulas, and Maarten de Rijke
+  - ***European Conference on Information Retrieval (ECIR), 2017***. 
+  - N/A.
+- [Indri: A language model-based search engine for complex queries](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.65.3502&rep=rep1&type=pdf). 
+  - Trevor Strohman, Donald Metzler, Howard Turtle, and W. Bruce Croft
+  - ***Proceedings of the international conference on intelligent analysis. 2005***. 
+  - N/A.
