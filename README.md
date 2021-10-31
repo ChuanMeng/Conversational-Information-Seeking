@@ -11,9 +11,8 @@ information retrieval (IR)
 
 - [I3R: A new approach to the design of document retrieval systems](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-4571(198711)38:6%3C389::AID-ASI1%3E3.0.CO;2-4). 
   - W Bruce Croft and Roger H Thompson
-  - ***Journal of the american society for information science，1987***
+  - ***Journal of the american society for information science, 1987***
   - Comments: Introduce an intelligent intermediary for IR.
-
 
 
 ### Asking Clarifying Question
