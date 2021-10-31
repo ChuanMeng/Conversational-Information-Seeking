@@ -9,6 +9,12 @@ information retrieval (IR)
   - Comments.
 
 
+- [Neural matching models for question retrieval and next question prediction in conversation](). 
+  - Liu Yang, Hamed Zamani, Yongfeng Zhang, Jiafeng Guo, and W. Bruce Croft.
+  - ***Proceedings of the 2017 ACM SIGIR Workshop on Neural Information Retrieval, 2017***. 
+  - Next question prediction, propose a model for retrieving the next question in conversation.
+
+
 ### Preference elicitation
 - [Coached Conversational Preference Elicitation: A Case Study in Understanding Movie Preferences](). 
   - Filip Radlinski, Krisztian Balog, Bill Byrne, and Karthik Krishnamoorthi.
