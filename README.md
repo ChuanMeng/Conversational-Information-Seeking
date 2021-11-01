@@ -81,7 +81,7 @@ information retrieval (IR)
 - [Toward Voice Query Clarification](https://dl.acm.org/doi/abs/10.1145/3209978.3210160). 
   - Johannes Kiesel, Arefeh Bahrami, Benno Stein, Avishek Anand, and Matthias Hagen.
   - ***The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (SIGIR), 2018***. 
-  - This paper reveals that asking natural language questions is the most convenient interaction form in conversational systems and users enjoy such interactions. study the impact of voice query clarification on user satisfaction and conclude that users like to be prompted for clarification.
+  - This paper reveals that asking natural language questions is the most convenient interaction form in conversational systems and users enjoy such interactions. Study the impact of voice query clarification on user satisfaction and conclude that users like to be prompted for clarification.
 - [Learning to ask good questions: Ranking clarification questions using neural expected value of perfect information](https://aclanthology.org/P18-1255/). 
   - Ryen W. White and Resa A. Roth.
   - ***Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL, long paper), 2018***. 
