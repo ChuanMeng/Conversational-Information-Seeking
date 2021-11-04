@@ -100,6 +100,12 @@ information retrieval (IR)
   - Their goal is not always to find the relevant passages for the user questions but also non-relevant passages that contain related topics in order to do clarification or recommendation sometimes 
 
 
+### Evaluation
+- [Meta-evaluation of Conversational Search Evaluation Metrics](https://dl.acm.org/doi/10.1145/3445029). 
+  - Zeyang Liu, Ke Zhou, Max L. Wilson.
+  - ***Transactions on Information Systems (TOIS), 2021***. 
+  - N/A.
+
 ### Indri python interface
 - [Pyndri: A Python Interface to the Indri Search Engine](https://link.springer.com/chapter/10.1007/978-3-319-56608-5_74). 
   - Christophe Van Gysel, Evangelos Kanoulas, and Maarten de Rijke.
