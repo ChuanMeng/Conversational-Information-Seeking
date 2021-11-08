@@ -78,6 +78,10 @@ information retrieval (IR)
   - Woon Sang Cho, Yizhe Zhang, Sudha Rao, Chris Brockett, and Sungjin Lee.
   - ***Proceedings of the 3rd Workshop on Neural Generation and Translation, 2019***. 
   - Propose a task of generating common questions from multiple documents for ambiguous user queries.
+- [Learning a Deep Listwise Context Model for Ranking](https://dl.acm.org/doi/abs/10.1145/3209978.3209985). 
+  - Qingyao Ai, Keping Bi, Jiafeng Guo, and W. Bruce Croft.
+  - ***The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (SIGIR), 2018***. 
+  - The paper uses the average BERT representations of questions and answers in each historical conversation turn as well as features from query performance prediction (QPP) for next clarifying question selection.
 - [Toward Voice Query Clarification](https://dl.acm.org/doi/abs/10.1145/3209978.3210160). 
   - Johannes Kiesel, Arefeh Bahrami, Benno Stein, Avishek Anand, and Matthias Hagen.
   - ***The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (SIGIR), 2018***. 
