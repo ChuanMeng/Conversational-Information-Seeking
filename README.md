@@ -23,6 +23,10 @@ information retrieval (IR)
   - The paper focuses on the movie recommendation scenario, and is focused specifcally on the preference elicitation phase, in which the assistant is instructed to learn more about the user tastes rather than make a recommendation.
 
 ### Very ealy papers for CIS
+- [Mixed-initiative interaction](https://ieeexplore.ieee.org/document/796083). 
+  - James F. Allen, Curry I. Guinn, and Eric Horvtz.
+  - ***IEEE Intelligent Systems and their Applications, 1999***
+  - N/A.
 - [Cases, scripts, and information-seeking strategies: On the design of interactive information retrieval systems](https://www.sciencedirect.com/science/article/pii/095741749500011W). 
   - Nicholas J Belkin, Colleen Cool, Adelheit Stein, and Ulrich Thiel.
   - ***Expert systems with applications, 1995***. 
@@ -35,6 +39,7 @@ information retrieval (IR)
   - Robert N Oddy.
   - ***Journal of documentation, 1977***
   - Propose the concept of IR through man-machine dialog.
+
 
 
 ### User study
