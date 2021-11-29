@@ -63,6 +63,14 @@ information retrieval (IR)
   - Helia Hashemi, Hamed Zamani, and W Bruce Croft.
   - ***Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020***. 
   - Extende the idea of pseudo relevance feedback and leveraged top-retrieved clarifying questions and documents for document retrieval and next clarifying question selection on Qulac.
+- [ Leading Conversational Search by Suggesting Useful Questions](https://dl.acm.org/doi/10.1145/3366423.3380193). 
+  - Corbin Rosset, Chenyan Xiong, Xia Song, Daniel Campos, Nick Craswell, Saurabh Tiwary, and Paul Bennett
+  - ***Proceedings of The Web Conference (WWW), 2020***. 
+  - Query suggestion，propose to suggest query by its usefulness. Real user needs mined from information seeking sessions in Bing sessions.
+- [Ranking Clarification Questions via Natural Language Inference](https://dl.acm.org/doi/10.1145/3340531.3412137). 
+  - Vaibhav Kumar, Vikas Raunak, and Jamie Callan.
+  - ***Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM), 2020***. 
+  - N/A.
 - [Asking Clarifying Questions in Open-Domain Information-Seeking Conversations](https://dl.acm.org/doi/abs/10.1145/3331184.3331265). 
   - Mohammad Aliannejadi, Hamed Zamani, Fabio Crestani, and W. Bruce Croft.
   - ***Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieva (SIGIR), 2019***. 
@@ -95,6 +103,10 @@ information retrieval (IR)
   - Ryen W. White and Resa A. Roth.
   - ***Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL, long paper), 2018***. 
   - Collect a clarifying question dataset from the posts in StackOverﬂow and propose to select clarification questions based on the expected value of perfect information considering the usefulness of potential answers to a candidate question.
+- [Learning to ask good questions: Ranking clarification questions using neural expected value of perfect information](https://aclanthology.org/P18-1255/). 
+  - Sudha Rao and Hal Daumé III.
+  - ***Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL, Long Papers), 2018***. 
+  - Collected a clarifying question dataset from the posts in StackOverﬂow and proposed to select clarification questions based on the expected value of perfect information considering the usefulness of potential answers to a candidate question.
 - [Situational Context for Ranking in Personal Search](https://dl.acm.org/doi/abs/10.1145/3038912.3052648). 
   - Hamed Zamani, Michael Bendersky, Xuanhui Wang, and Mingyang Zhang.
   - ***Proceedings of the 26th International Conference on World Wide Web (WWW), 2017***. 
