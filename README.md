@@ -51,6 +51,10 @@ information retrieval (IR)
 
 
 ### Asking Clarifying Question
+- [Template-guided Clarifying Question Generation for Web Search Clarification](https://dl.acm.org/doi/abs/10.1145/3459637.3482199). 
+  - Jian Wang and Wenjie Li.
+  - ***Proceedings of the 30th ACM International Conference on Information & Knowledge Management (CIKM), 2021***. 
+  - Investigate a template-guided clarifying question generation method for Web search clarification, with the objective of jointly learning to select appropriate question templates and fill with slot values.
 - [ConvAI3: Generating Clarifying Questions for OpenDomain Dialogue Systems (ClariQ)](http://convai.io/ConvAI3_ClariQ2020.pdf). 
   - Mohammad Aliannejadi, Julia Kiseleva, Aleksandr Chuklin, Jeff Dalton, and Mikhail Burtsev.
   - ***Conversational AI challenge series (ConvAI3), 2020***. 
