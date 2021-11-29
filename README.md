@@ -8,8 +8,8 @@ The format of a piece of literature is as follows:
   - Comments.
 
 
-- [Preference elicitation](#Preference elicitation)
-- [Asking Clarifying Question](#Asking Clarifying Questio)
+- [Preference elicitation](#Preference-elicitation)
+- [Asking Clarifying Question](#Asking-Clarifying-Question)
 - [User study](#User study)
 - [Evaluation](#Evaluation)
 - [Very ealy papers for CIS](#Very ealy papers for CIS)
