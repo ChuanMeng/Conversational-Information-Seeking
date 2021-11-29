@@ -71,6 +71,10 @@ information retrieval (IR)
   - Vaibhav Kumar, Vikas Raunak, and Jamie Callan.
   - ***Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM), 2020***. 
   - N/A.
+- [Mimics: A Large-scale Data Collection for Search Clarification](https://dl.acm.org/doi/10.1145/3340531.3412772). 
+  - Hamed Zamani, Gord Lueck, Everest Chen, Rodolfo Quispe, Flint Luu, and Nick Craswell.
+  - ***Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIMK), 2020***. 
+  - Publish an annotated dataset consisting of real-world user interactions. Introduced MIMICS, a collection of search clarification datasets containing real Web search queries sampled from Bing’s search logs. 
 - [Asking Clarifying Questions in Open-Domain Information-Seeking Conversations](https://dl.acm.org/doi/abs/10.1145/3331184.3331265). 
   - Mohammad Aliannejadi, Hamed Zamani, Fabio Crestani, and W. Bruce Croft.
   - ***Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieva (SIGIR), 2019***. 
