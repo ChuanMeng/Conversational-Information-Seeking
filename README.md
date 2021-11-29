@@ -1,6 +1,5 @@
 # Conversational-Information-Seeking
 A Conversational Information Seeking (CIS) Paper Reading List Maintained by Chuan Meng.
-information retrieval (IR)
 
 The format of a piece of literature is as follows:
 - [Titile and the link for pdf](). 
