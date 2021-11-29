@@ -8,8 +8,16 @@ The format of a piece of literature is as follows:
   - Comments.
 
 
+- [Preference elicitation](#Preference elicitation)
+- [Asking Clarifying Question](#Asking Clarifying Questio)
+- [User study](#User study)
+- [Evaluation](#Evaluation)
+- [Very ealy papers for CIS](#Very ealy papers for CIS)
+- [Indri Python Interface](#Indri Python Interface)
+- [Undetermined](#Undetermined)
 
 
+### Undetermined
 - [Neural matching models for question retrieval and next question prediction in conversation](). 
   - Liu Yang, Hamed Zamani, Yongfeng Zhang, Jiafeng Guo, and W. Bruce Croft.
   - ***Proceedings of the 2017 ACM SIGIR Workshop on Neural Information Retrieval, 2017***. 
@@ -135,7 +143,7 @@ The format of a piece of literature is as follows:
   - ***Transactions on Information Systems (TOIS), 2021***. 
   - N/A.
 
-### Indri python interface
+### Indri Python Interface
 - [Pyndri: A Python Interface to the Indri Search Engine](https://link.springer.com/chapter/10.1007/978-3-319-56608-5_74). 
   - Christophe Van Gysel, Evangelos Kanoulas, and Maarten de Rijke.
   - ***European Conference on Information Retrieval (ECIR), 2017***. 
