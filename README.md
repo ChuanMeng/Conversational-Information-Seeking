@@ -2,12 +2,13 @@
 A Conversational Information Seeking (CIS) Paper Reading List Maintained by Chuan Meng.
 information retrieval (IR)
 
-
-
+The format of a piece of literature is as follows:
 - [Titile and the link for pdf](). 
   - Authors.
   - ***Publisher and publish time***. 
   - Comments.
+
+
 
 
 - [Neural matching models for question retrieval and next question prediction in conversation](). 
