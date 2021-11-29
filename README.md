@@ -18,20 +18,20 @@ Here is the catelogue:
 
 ***
 
-### Undetermined
+## Undetermined
 - [Neural matching models for question retrieval and next question prediction in conversation](). 
   - Liu Yang, Hamed Zamani, Yongfeng Zhang, Jiafeng Guo, and W. Bruce Croft.
   - ***Proceedings of the 2017 ACM SIGIR Workshop on Neural Information Retrieval, 2017***. 
   - Next question prediction, propose a model for retrieving the next question in conversation.
 
 
-### Preference Elicitation
+## Preference Elicitation
 - [Coached Conversational Preference Elicitation: A Case Study in Understanding Movie Preferences](). 
   - Filip Radlinski, Krisztian Balog, Bill Byrne, and Karthik Krishnamoorthi.
   - ***Proceedings of the 20th Annual SIGdial Meeting on Discourse and Dialogue, 2019***. 
   - The paper focuses on the movie recommendation scenario, and is focused specifcally on the preference elicitation phase, in which the assistant is instructed to learn more about the user tastes rather than make a recommendation.
 
-### Very Ealy Papers for CIS
+## Very Ealy Papers for CIS
 - [Mixed-initiative interaction](https://ieeexplore.ieee.org/document/796083). 
   - James F. Allen, Curry I. Guinn, and Eric Horvtz.
   - ***IEEE Intelligent Systems and their Applications, 1999***
@@ -51,7 +51,7 @@ Here is the catelogue:
 
 
 
-### User Study
+## User Study
 - [Exploring conversational search with humans, assistants, and wizards](https://dl.acm.org/doi/abs/10.1145/3027063.3053175). 
   - Alexandra Vtyurina, Denis Savenkov, Eugene Agichtein, and Charles LA Clarke.
   - ***Expert systems with applications, 1995***. 
@@ -59,7 +59,7 @@ Here is the catelogue:
 
 
 
-### Asking Clarifying Question
+## Asking Clarifying Question
 - [Template-guided Clarifying Question Generation for Web Search Clarification](https://dl.acm.org/doi/abs/10.1145/3459637.3482199). 
   - Jian Wang and Wenjie Li.
   - ***Proceedings of the 30th ACM International Conference on Information & Knowledge Management (CIKM), 2021***. 
@@ -138,13 +138,13 @@ Here is the catelogue:
   - Their goal is not always to find the relevant passages for the user questions but also non-relevant passages that contain related topics in order to do clarification or recommendation sometimes 
 
 
-### Evaluation
+## Evaluation
 - [Meta-evaluation of Conversational Search Evaluation Metrics](https://dl.acm.org/doi/10.1145/3445029). 
   - Zeyang Liu, Ke Zhou, Max L. Wilson.
   - ***Transactions on Information Systems (TOIS), 2021***. 
   - N/A.
 
-### Indri Python Interface
+## Indri Python Interface
 - [Pyndri: A Python Interface to the Indri Search Engine](https://link.springer.com/chapter/10.1007/978-3-319-56608-5_74). 
   - Christophe Van Gysel, Evangelos Kanoulas, and Maarten de Rijke.
   - ***European Conference on Information Retrieval (ECIR), 2017***. 
