@@ -58,7 +58,7 @@ information retrieval (IR)
 - [Analyzing and Learning from User Interactions with Search Clarifcation](https://dl.acm.org/doi/abs/10.1145/3397271.3401160). 
   - Hamed Zamani, Bhaskar Mitra, Everest Chen, Gord Lueck, Fernando Diaz, Paul N. Bennett, Nick Craswell, and Susan T. Dumais.
   - ***Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020***. 
-  - Generat and select clarifying questions.
+  - Generate and select clarifying questions. Further analyzed user interactions in Bing’s search panes, and provided insights into user click bias and the impact of clarification on search experience. 
 - [Guided Transformer: Leveraging Multiple External Sources for Representation Learning in Conversational Search](https://dl.acm.org/doi/abs/10.1145/3397271.3401061). 
   - Helia Hashemi, Hamed Zamani, and W Bruce Croft.
   - ***Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020***. 
@@ -66,7 +66,7 @@ information retrieval (IR)
 - [ Leading Conversational Search by Suggesting Useful Questions](https://dl.acm.org/doi/10.1145/3366423.3380193). 
   - Corbin Rosset, Chenyan Xiong, Xia Song, Daniel Campos, Nick Craswell, Saurabh Tiwary, and Paul Bennett
   - ***Proceedings of The Web Conference (WWW), 2020***. 
-  - Query suggestion，propose to suggest query by its usefulness. Real user needs mined from information seeking sessions in Bing sessions.
+  - Additionally considered to incorporate user past search behaviors. Query suggestion，propose to suggest query by its usefulness. Real user needs mined from information seeking sessions in Bing sessions.
 - [Ranking Clarification Questions via Natural Language Inference](https://dl.acm.org/doi/10.1145/3340531.3412137). 
   - Vaibhav Kumar, Vikas Raunak, and Jamie Callan.
   - ***Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM), 2020***. 
