@@ -7,13 +7,13 @@ The format of a piece of literature is as follows:
   - ***Publisher and publish time***. 
   - Comments.
 
-
+Here is the catelogue:
 - [Preference elicitation](#Preference-elicitation)
 - [Asking Clarifying Question](#Asking-Clarifying-Question)
-- [User study](#User study)
+- [User study](#User-Study)
 - [Evaluation](#Evaluation)
-- [Very ealy papers for CIS](#Very ealy papers for CIS)
-- [Indri Python Interface](#Indri Python Interface)
+- [Very ealy papers for CIS](#Very-Ealy-Papers-for-CIS)
+- [Indri Python Interface](#Indri-Python-Interface)
 - [Undetermined](#Undetermined)
 
 
@@ -24,13 +24,13 @@ The format of a piece of literature is as follows:
   - Next question prediction, propose a model for retrieving the next question in conversation.
 
 
-### Preference elicitation
+### Preference Elicitation
 - [Coached Conversational Preference Elicitation: A Case Study in Understanding Movie Preferences](). 
   - Filip Radlinski, Krisztian Balog, Bill Byrne, and Karthik Krishnamoorthi.
   - ***Proceedings of the 20th Annual SIGdial Meeting on Discourse and Dialogue, 2019***. 
   - The paper focuses on the movie recommendation scenario, and is focused specifcally on the preference elicitation phase, in which the assistant is instructed to learn more about the user tastes rather than make a recommendation.
 
-### Very ealy papers for CIS
+### Very Ealy Papers for CIS
 - [Mixed-initiative interaction](https://ieeexplore.ieee.org/document/796083). 
   - James F. Allen, Curry I. Guinn, and Eric Horvtz.
   - ***IEEE Intelligent Systems and their Applications, 1999***
@@ -50,7 +50,7 @@ The format of a piece of literature is as follows:
 
 
 
-### User study
+### User Study
 - [Exploring conversational search with humans, assistants, and wizards](https://dl.acm.org/doi/abs/10.1145/3027063.3053175). 
   - Alexandra Vtyurina, Denis Savenkov, Eugene Agichtein, and Charles LA Clarke.
   - ***Expert systems with applications, 1995***. 
