@@ -11,7 +11,7 @@ Here is the catelogue:
 - [Preference elicitation](#Preference-elicitation)
 - [Asking Clarifying Question](#Asking-Clarifying-Question)
 - [User study](#User-Study)
-- [Mixed Intiative](#Mixed Intiative)
+- [Mixed Intiative](#Mixed-Intiative)
 - [Evaluation](#Evaluation)
 - [Very ealy papers for CIS](#Very-Ealy-Papers-for-CIS)
 - [Indri Python Interface](#Indri-Python-Interface)
