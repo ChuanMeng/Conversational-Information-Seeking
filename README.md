@@ -20,7 +20,6 @@ Here is the catelogue:
 ***
 
 ## Mixed Intiative
-The format of a piece of literature is as follows:
 - [Mixed Initiative in Dialogue: An Investigation into Discourse Segmentation](https://aclanthology.org/P90-1010/). 
   - Marilyn A. Walker and Steve Whittaker.
   - ***28th Annual Meeting of the Association for Computational Linguistics (ACL), 1990***. 
