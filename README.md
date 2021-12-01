@@ -11,12 +11,21 @@ Here is the catelogue:
 - [Preference elicitation](#Preference-elicitation)
 - [Asking Clarifying Question](#Asking-Clarifying-Question)
 - [User study](#User-Study)
+- [Mixed Intiative](#Mixed Intiative)
 - [Evaluation](#Evaluation)
 - [Very ealy papers for CIS](#Very-Ealy-Papers-for-CIS)
 - [Indri Python Interface](#Indri-Python-Interface)
 - [Undetermined](#Undetermined)
 
 ***
+
+## Mixed Intiative
+The format of a piece of literature is as follows:
+- [Mixed Initiative in Dialogue: An Investigation into Discourse Segmentation](https://aclanthology.org/P90-1010/). 
+  - Marilyn A. Walker and Steve Whittaker.
+  - ***28th Annual Meeting of the Association for Computational Linguistics (ACL), 1990***. 
+  - The first systematic study of mixed initiative in dialogues is by Walker and Whittaker.
+
 
 ## Undetermined
 - [Neural matching models for question retrieval and next question prediction in conversation](). 
