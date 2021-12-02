@@ -24,7 +24,7 @@ Here is the catelogue:
 ## Conceptualization
 - [A Theoretical Framework for Conversational Search](https://dl.acm.org/doi/abs/10.1145/3020165.3020183). 
   - Filip Radlinski and Nick Craswell.
-  - ***Proceedings of the 2017 Conference on Conference Human Information Interaction and Retrieval (CHIIR), 2017. 
+  - ***Proceedings of the 2017 Conference on Conference Human Information Interaction and Retrieval (CHIIR), 2017***. 
   - N/A.
 
 ## Mixed Intiative
