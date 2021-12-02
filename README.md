@@ -8,6 +8,7 @@ The format of a piece of literature is as follows:
   - Comments.
 
 Here is the catelogue:
+- [Conceptualization](#Conceptualization)
 - [Preference elicitation](#Preference-elicitation)
 - [Asking Clarifying Question](#Asking-Clarifying-Question)
 - [User study](#User-Study)
@@ -18,6 +19,13 @@ Here is the catelogue:
 - [Undetermined](#Undetermined)
 
 ***
+
+
+## Conceptualization
+- [A Theoretical Framework for Conversational Search](https://dl.acm.org/doi/abs/10.1145/3020165.3020183). 
+  - Filip Radlinski and Nick Craswell.
+  - ***Proceedings of the 2017 Conference on Conference Human Information Interaction and Retrieval (CHIIR), 2017. 
+  - N/A.
 
 ## Mixed Intiative
 - [Mixed Initiative in Dialogue: An Investigation into Discourse Segmentation](https://aclanthology.org/P90-1010/). 
@@ -68,6 +76,10 @@ Here is the catelogue:
 
 
 ## Asking Clarifying Question
+- [Towards Facet-Driven Generation of Clarifying Questions for Conversational Search](https://dl.acm.org/doi/abs/10.1145/3471158.3472257). 
+  - Ivan Sekulić, Mohammad Aliannejadi, and Fabio Crestani.
+  - ***Proceedings of the 2021 ACM SIGIR International Conference on Theory of Information Retrieval (ICTIR), 2021***. 
+  - N/A.
 - [Template-guided Clarifying Question Generation for Web Search Clarification](https://dl.acm.org/doi/abs/10.1145/3459637.3482199). 
   - Jian Wang and Wenjie Li.
   - ***Proceedings of the 30th ACM International Conference on Information & Knowledge Management (CIKM), 2021***. 
