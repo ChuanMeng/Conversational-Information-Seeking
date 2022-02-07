@@ -82,6 +82,10 @@ Here is the catelogue:
 
 
 ## Asking Clarifying Question
+- [Exploiting Document-based Features for Clarification in Conversational Search](). 
+  - Ivan Sekulić, Mohammad Aliannejadi, and Fabio Crestani.
+  - ***European Conference on Information Retrieval (ECIR), 2022***. 
+  - Document features for clarifying questions.
 - [Towards Facet-Driven Generation of Clarifying Questions for Conversational Search](https://dl.acm.org/doi/abs/10.1145/3471158.3472257). 
   - Ivan Sekulić, Mohammad Aliannejadi, and Fabio Crestani.
   - ***Proceedings of the 2021 ACM SIGIR International Conference on Theory of Information Retrieval (ICTIR), 2021***. 
