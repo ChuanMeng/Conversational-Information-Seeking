@@ -26,7 +26,6 @@ Here is the catelogue:
   - Hamed Zamani, Johanne R. Trippas, Jeff Dalton, and Filip Radlinski.
   - ***arXiv:2201.08808, 2022***. 
   - N/A.
-
 - [Neural Approaches to Conversational Information Retrieval](https://arxiv.org/abs/2201.05176). 
   - Jianfeng Gao, Chenyan Xiong, Paul Bennett, and Nick Craswell.
   - ***arXiv:2201.05176, 2022***. 
@@ -37,7 +36,6 @@ Here is the catelogue:
   - Leif Azzopardi, Mateusz Dubiel, Martin Halvey, and Jeﬀery Dalton.
   - ***The Second International Workshop on Conversational Approaches to Information Retrieval (CAIR), 2018***. 
   - Outline the actions and intents of users and systems explaining how these actions enable users to explore the search space and resolve their information need. This work provides a conceptualization of the CIS process and a framework for the development of practical CIS systems. Introduce a typology of conversational search systems. This typology relates conversational search systems to other types of interactive system, such as chatbots, information retrieval and dialogue systems.
-
 - [A Theoretical Framework for Conversational Search](https://dl.acm.org/doi/abs/10.1145/3020165.3020183). 
   - Filip Radlinski and Nick Craswell.
   - ***Proceedings of the 2017 Conference on Conference Human Information Interaction and Retrieval (CHIIR), 2017***. 
