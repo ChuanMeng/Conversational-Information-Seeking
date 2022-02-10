@@ -8,6 +8,7 @@ The format of a piece of literature is as follows:
   - Comments.
 
 Here is the catelogue:
+- [Survey](#Survey)
 - [Conceptualization](#Conceptualization)
 - [Preference elicitation](#Preference-elicitation)
 - [Asking Clarifying Question](#Asking-Clarifying-Question)
@@ -20,6 +21,16 @@ Here is the catelogue:
 
 ***
 
+## Survey
+- [Conversational Information Seeking](https://arxiv.org/abs/2201.08808). 
+  - Hamed Zamani, Johanne R. Trippas, Jeff Dalton, and Filip Radlinski.
+  - ***arXiv:2201.08808, 2022***. 
+  - N/A.
+
+- [Neural Approaches to Conversational Information Retrieval](https://arxiv.org/abs/2201.05176). 
+  - Jianfeng Gao, Chenyan Xiong, Paul Bennett, and Nick Craswell.
+  - ***arXiv:2201.05176, 2022***. 
+  - N/A.
 
 ## Conceptualization
 - [Conceptualizing Agent-Human Interactions During the Conversational Search Process](https://core.ac.uk/download/pdf/159074386.pdf). 
