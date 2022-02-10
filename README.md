@@ -147,10 +147,6 @@ Here is the catelogue:
   - ***The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (SIGIR), 2018***. 
   - This paper reveals that asking natural language questions is the most convenient interaction form in conversational systems and users enjoy such interactions. Study the impact of voice query clarification on user satisfaction and conclude that users like to be prompted for clarification.
 - [Learning to ask good questions: Ranking clarification questions using neural expected value of perfect information](https://aclanthology.org/P18-1255/). 
-  - Ryen W. White and Resa A. Roth.
-  - ***Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL, long paper), 2018***. 
-  - Collect a clarifying question dataset from the posts in StackOverﬂow and propose to select clarification questions based on the expected value of perfect information considering the usefulness of potential answers to a candidate question.
-- [Learning to ask good questions: Ranking clarification questions using neural expected value of perfect information](https://aclanthology.org/P18-1255/). 
   - Sudha Rao and Hal Daumé III.
   - ***Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL, Long Papers), 2018***. 
   - Collected a clarifying question dataset from the posts in StackOverﬂow and proposed to select clarification questions based on the expected value of perfect information considering the usefulness of potential answers to a candidate question.
@@ -173,6 +169,10 @@ Here is the catelogue:
   - Zeyang Liu, Ke Zhou, Max L. Wilson.
   - ***Transactions on Information Systems (TOIS), 2021***. 
   - N/A.
+- [How Am I Doing?- Evaluating Conversational Search Systems Offline](https://dl.acm.org/doi/10.1145/3451160). 
+  - Zeyang Liu, Ke Zhou, Max L. Wilson.
+  - ***Transactions on Information Systems (TOIS), 2021***. 
+  - Propose a metric for offline evaluation of conversational search systems based on user interaction model, which models user queries and system responses with subtopics, and the bahavours of the user model is conditioned on the answers returned by the system.
 
 ## Indri Python Interface
 - [Pyndri: A Python Interface to the Indri Search Engine](https://link.springer.com/chapter/10.1007/978-3-319-56608-5_74). 
