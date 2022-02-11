@@ -19,6 +19,7 @@ Here is the catelogue:
 - [Indri Python Interface](#Indri-Python-Interface)
 - [Undetermined](#Undetermined)
 
+
 ***
 
 ## Survey
@@ -55,6 +56,15 @@ Here is the catelogue:
   - ***Proceedings of the 2017 ACM SIGIR Workshop on Neural Information Retrieval, 2017***. 
   - Next question prediction, propose a model for retrieving the next question in conversation.
 
+- [Analyzing and Characterizing User Intent in Information-seeking Conversations](https://dl.acm.org/doi/abs/10.1145/3209978.3210124). 
+  - Chen Qu, Liu Yang, W. Bruce Croft, Johanne R. Trippas, Yongfeng Zhang, and Minghui Qiu.
+  - ***The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (SIGIR), 2018***. 
+  - The studies on human generated dialogues on question answering websites have provided analysis on the intent of each utterance. Motivated by the lack of data for training machine learning models, this paper collects forum threads of on-line technical support platforms as samples of information-seeking dialogues. This approach allows the authors to create the large-scale MSDialog corpus with 35.5K dialogues. The authors reuse an existing taxonomy for classifying forum messages with user intents and extend it with four new labels. This taxonomy has been used to annotate a subset of the MSDialog dataset (2K dialogues) using crowdsourcing. Then, the authors extract sequences of utterance labels as dialogue ﬂow patterns and compare them with patterns extracted from the Ubuntu Dialog Corpus. The authors report that while the extracted patterns are the same for both dialogue datasets, their relative frequencies are diﬀerent. MSDialog has been collected on a technical support forum provided by Microsoft. forum threads are usually much shorter than text- and speech-based dialogues and their utterances are much longer.
+
+- [User Intent Prediction in Information-seeking Conversations](https://dl.acm.org/doi/abs/10.1145/3295750.3298924). 
+  - Chen Qu, Liu Yang, W. Bruce Croft, Yongfeng Zhang, Johanne R. Trippas, Minghui Qiu
+  - ***Proceedings of the 2019 Conference on Human Information Interaction and Retrieval (CHIIR), 2019***. 
+  - Predicting user intent.
 
 ## Preference Elicitation
 - [Coached Conversational Preference Elicitation: A Case Study in Understanding Movie Preferences](). 
