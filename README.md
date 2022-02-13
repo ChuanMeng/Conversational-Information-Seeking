@@ -67,11 +67,15 @@ Here is the catelogue:
   - Predicting user intent.
 
 ## Preference Elicitation
-- [Coached Conversational Preference Elicitation: A Case Study in Understanding Movie Preferences](). 
+- [Coached Conversational Preference Elicitation: A Case Study in Understanding Movie Preferences](https://aclanthology.org/W19-5941.pdf). 
   - Filip Radlinski, Krisztian Balog, Bill Byrne, and Karthik Krishnamoorthi.
   - ***Proceedings of the 20th Annual SIGdial Meeting on Discourse and Dialogue, 2019***. 
   - The paper focuses on the movie recommendation scenario, and is focused specifcally on the preference elicitation phase, in which the assistant is instructed to learn more about the user tastes rather than make a recommendation.
-
+- [Towards Conversational Search and Recommendation: System Ask, User Respond](https://dl.acm.org/doi/abs/10.1145/3269206.3271776). 
+  - Yongfeng Zhang, Xu Chen, Qingyao Ai, Liu Yang, and W. Bruce Croft.
+  - ***Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM), 2018***. 
+  - Conversational preference elicitation.
+ 
 ## Very Ealy Papers for CIS
 - [Mixed-initiative interaction](https://ieeexplore.ieee.org/document/796083). 
   - James F. Allen, Curry I. Guinn, and Eric Horvtz.
