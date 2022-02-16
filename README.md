@@ -125,6 +125,10 @@ Here is the catelogue:
   - Hamed Zamani, Bhaskar Mitra, Everest Chen, Gord Lueck, Fernando Diaz, Paul N. Bennett, Nick Craswell, and Susan T. Dumais.
   - ***Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020***. 
   - Generate and select clarifying questions. Further analyzed user interactions in Bing’s search panes, and provided insights into user click bias and the impact of clarification on search experience. 
+- [Analyzing and Learning from User Interactions with Search Clarifcation](https://dl.acm.org/doi/abs/10.1145/3397271.3401160). 
+  - Hamed Zamani, Bhaskar Mitra, Everest Chen, Gord Lueck, Fernando Diaz, Paul N. Bennett, Nick Craswell, and Susan T. Dumais.
+  - ***Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020***. 
+  - Generating and selecting clarifying questions.
 - [Guided Transformer: Leveraging Multiple External Sources for Representation Learning in Conversational Search](https://dl.acm.org/doi/abs/10.1145/3397271.3401061). 
   - Helia Hashemi, Hamed Zamani, and W Bruce Croft.
   - ***Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020***. 
