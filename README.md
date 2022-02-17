@@ -51,11 +51,14 @@ Here is the catelogue:
 
 
 ## Undetermined
+- [Informing the design of spoken conversational search: Perspective paper](https://dl.acm.org/doi/abs/10.1145/3176349.3176387). 
+  - Johanne R Trippas, Damiano Spina, Lawrence Cavedon, Hideo Joho, and Mark Sanderson.
+  - ***Proceedings of the 2018 Conference on Human Information Interaction & Retrieval (CHIIR), 2018***. 
+  - Reformulate the conversational query into a de-contextualized, fully-grown, ad hoc query. Suggested building conversational search systems based on the commonly-used interactions from human communication) （conduct a laboratory-based observational study, where pairs of people perform search tasks communicating verbally. They conclude that CIS is more complex and interactive than traditional search
 - [Neural matching models for question retrieval and next question prediction in conversation](). 
   - Liu Yang, Hamed Zamani, Yongfeng Zhang, Jiafeng Guo, and W. Bruce Croft.
   - ***Proceedings of the 2017 ACM SIGIR Workshop on Neural Information Retrieval, 2017***. 
   - Next question prediction, propose a model for retrieving the next question in conversation.
-
 - [Analyzing and Characterizing User Intent in Information-seeking Conversations](https://dl.acm.org/doi/abs/10.1145/3209978.3210124). 
   - Chen Qu, Liu Yang, W. Bruce Croft, Johanne R. Trippas, Yongfeng Zhang, and Minghui Qiu.
   - ***The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (SIGIR), 2018***. 
