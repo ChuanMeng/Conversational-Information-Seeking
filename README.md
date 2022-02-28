@@ -18,6 +18,7 @@ Here is the catelogue:
 - [Very ealy papers for CIS](#Very-Ealy-Papers-for-CIS)
 - [Indri Python Interface](#Indri-Python-Interface)
 - [Undetermined](#Undetermined)
+- [User Simulation](#User-Simulation)
 
 
 ***
@@ -42,7 +43,16 @@ Here is the catelogue:
   - ***Proceedings of the 2017 Conference on Conference Human Information Interaction and Retrieval (CHIIR), 2017***. 
   - N/A.
 
-
+## User Simulation
+- [Conversational AI from an Information Retrieval Perspective: Remaining Challenges and a Case for User Simulation](http://ceur-ws.org/Vol-2950/paper-03.pdf). 
+  - Krisztian Balog.
+  - ***2nd International Conference on Design of Experimental Search & Information REtrieval Systems (DESIRES), 2021***. 
+  - N/A.
+- [State of the Art of User Simulation Approaches for Conversational Information Retrieval](http://ceur-ws.org/Vol-2911/paper5.pdf). 
+  - Pierre Erbacher, Laure Soulier, and Ludovic Denoyer.
+  - ***Causality in Search and Recommendation (CSR) and Simulation of Information Retrieval Evaluation (Sim4IR) workshops at SIGIR, 2021***. 
+  - N/A.
+  
 ## Mixed Intiative
 - [Mixed Initiative in Dialogue: An Investigation into Discourse Segmentation](https://aclanthology.org/P90-1010/). 
   - Marilyn A. Walker and Steve Whittaker.
@@ -195,6 +205,10 @@ Here is the catelogue:
 
 
 ## Evaluation
+- [Evaluating Mixed-initiative Conversational Search Systems via User Simulation](https://dl.acm.org/doi/abs/10.1145/3488560.3498440). 
+  - Authors.
+  - ***Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining (WSDM), 2022***. 
+  - N/A.
 - [Meta-evaluation of Conversational Search Evaluation Metrics](https://dl.acm.org/doi/10.1145/3445029). 
   - Zeyang Liu, Ke Zhou, Max L. Wilson.
   - ***Transactions on Information Systems (TOIS), 2021***. 
