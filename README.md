@@ -23,6 +23,20 @@ Here is the catelogue:
 
 ***
 
+- [Titile and the link for pdf](). 
+  - Authors.
+  - ***Publisher and publish time***. 
+  - Comments.
+  
+  
+  
+
+## Query reformulation/rewriting
+
+
+## Dense Retrieval
+
+
 ## Survey
 - [Conversational Information Seeking](https://arxiv.org/abs/2201.08808). 
   - Hamed Zamani, Johanne R. Trippas, Jeff Dalton, and Filip Radlinski.
