@@ -32,14 +32,15 @@ Here is the catelogue:
   
 
 ## Query reformulation/rewriting
-- [Revisiting Open Domain Query Facet Extraction and Generation](https://dl.acm.org/doi/abs/10.1145/3539813.3545138). 
-  - Chris Samarinas, Arkin Dharawat, Hamed Zamani.
-  - ***Proceedings of the 2022 ACM SIGIR International Conference on Theory of Information Retrieval, ICTIR '22***. 
-  - N/A.
+
 
 ## Dense Retrieval
 
 ## Facet Extraction/Generation
+- [Revisiting Open Domain Query Facet Extraction and Generation](https://dl.acm.org/doi/abs/10.1145/3539813.3545138). 
+  - Chris Samarinas, Arkin Dharawat, Hamed Zamani.
+  - ***Proceedings of the 2022 ACM SIGIR International Conference on Theory of Information Retrieval, ICTIR '22***. 
+  - N/A.
 
 ## Survey
 - [Conversational Information Seeking](https://arxiv.org/abs/2201.08808). 
@@ -105,7 +106,10 @@ Here is the catelogue:
   - Yongfeng Zhang, Xu Chen, Qingyao Ai, Liu Yang, and W. Bruce Croft.
   - ***Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM), 2018***. 
   - Conversational preference elicitation.
- 
+ - [Flipping the Script: Inverse Information Seeking Dialogues for Market Research](https://dl.acm.org/doi/abs/10.1145/3477495.3536326). 
+  -  Josh Seltzer, Kathy Cheng, Shi Zong, Jimmy Lin.
+  - ***Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR '22***. 
+  - N/A.
 ## Very Ealy Papers for CIS
 - [Mixed-initiative interaction](https://ieeexplore.ieee.org/document/796083). 
   - James F. Allen, Curry I. Guinn, and Eric Horvtz.
