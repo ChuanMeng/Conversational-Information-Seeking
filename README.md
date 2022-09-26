@@ -32,10 +32,14 @@ Here is the catelogue:
   
 
 ## Query reformulation/rewriting
-
+- [Revisiting Open Domain Query Facet Extraction and Generation](https://dl.acm.org/doi/abs/10.1145/3539813.3545138). 
+  - Chris Samarinas, Arkin Dharawat, Hamed Zamani.
+  - ***Proceedings of the 2022 ACM SIGIR International Conference on Theory of Information Retrieval, ICTIR '22***. 
+  - N/A.
 
 ## Dense Retrieval
 
+## Facet Extraction/Generation
 
 ## Survey
 - [Conversational Information Seeking](https://arxiv.org/abs/2201.08808). 
