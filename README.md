@@ -51,6 +51,10 @@ Here is the catelogue:
   - Jianfeng Gao, Chenyan Xiong, Paul Bennett, and Nick Craswell.
   - ***arXiv:2201.05176, 2022***. 
   - N/A.
+- [How to Approach Ambiguous Queries in Conversational Search? A Survey of Techniques, Approaches, Tools and Challenges](https://dl.acm.org/doi/abs/10.1145/3534965). 
+  - Kimiya Keyvan, Jimmy Xiangji Huang.
+  - ***ACM Computing Surveys, 2022***. 
+  - N/A.
 
 ## Conceptualization
 - [Conceptualizing Agent-Human Interactions During the Conversational Search Process](https://core.ac.uk/download/pdf/159074386.pdf). 
